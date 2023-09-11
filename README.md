@@ -1,2 +1,15 @@
 # Sorting-Visualizer
-A sorting visualizer is an interactive tool that graphically demonstrates sorting algorithms, allowing users to observe how elements are rearranged to achieve a desired order. It helps understand algorithm efficiency and performance through visual representation, making it an invaluable resource for learning and analyzing sorting techniques.
+
+A JavaScript web application for visualizing various sorting algorithms. Built for use by developers and educators alike. Implemented algorithms include:
+
+- [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+- [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
+- [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
+- [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+- [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+
+## How to use
+
+- Navigate to the [website]()
+- Click on the algorithm you want to visualize
+- Adjust speed and size of the array
