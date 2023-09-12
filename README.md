@@ -1,5 +1,6 @@
 # Sorting-Visualizer
-metaImageSort.png
+<img href="metaImageSort.png">
+
 A JavaScript web application for visualizing various sorting algorithms. Built for use by developers and educators alike. Implemented algorithms include:
 
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
@@ -12,4 +13,4 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 
 - Navigate to the [website]()
 - Click on the algorithm you want to visualize
-- Adjust speed and size of the array
+- Adjust the speed and size of the array
